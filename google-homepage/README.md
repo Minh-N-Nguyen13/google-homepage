@@ -1,1 +1,2 @@
-This is my google homepage clone project.  Second edit.
+The Odin Project: Foundations
+Project: Google Homepage
